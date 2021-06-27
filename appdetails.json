@@ -17,5 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.136.122.175","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"New York","country":"United States","image":"unitedstates","ip":"34.136.122.175","active":"true","signal":"a"}
   ]
 }
